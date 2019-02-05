@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Ogrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" merhaba="WUHU">
+  <TCNO>190</TCNO>
+  <LANBUDAYENI_x0020_adi>Harun</LANBUDAYENI_x0020_adi>
+  <DogumTarihi>1998-04-03T21:05:00.3021281+03:00</DogumTarihi>
+  <Dersler>
+    <Ders>
+      <Adi>Matematik</Adi>
+      <Kredi>4</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="12" />
+        <Puan SinavAdi="Vize2" AlinanPuan="29" />
+        <Puan SinavAdi="Final" AlinanPuan="56" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>Fizik</Adi>
+      <Kredi>2</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="63" />
+        <Puan SinavAdi="Vize2" AlinanPuan="36" />
+        <Puan SinavAdi="Final" AlinanPuan="82" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>Biyoloji</Adi>
+      <Kredi>4</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="22" />
+        <Puan SinavAdi="Vize2" AlinanPuan="87" />
+        <Puan SinavAdi="Final" AlinanPuan="63" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>Türkçe</Adi>
+      <Kredi>1</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="75" />
+        <Puan SinavAdi="Vize2" AlinanPuan="79" />
+        <Puan SinavAdi="Final" AlinanPuan="94" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>SQL</Adi>
+      <Kredi>5</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="83" />
+        <Puan SinavAdi="Vize2" AlinanPuan="96" />
+        <Puan SinavAdi="Final" AlinanPuan="27" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>C#</Adi>
+      <Kredi>5</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="60" />
+        <Puan SinavAdi="Vize2" AlinanPuan="52" />
+        <Puan SinavAdi="Final" AlinanPuan="61" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>JAVA</Adi>
+      <Kredi>3</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="56" />
+        <Puan SinavAdi="Vize2" AlinanPuan="48" />
+        <Puan SinavAdi="Final" AlinanPuan="94" />
+      </Puanlar>
+    </Ders>
+    <Ders>
+      <Adi>MVC</Adi>
+      <Kredi>2</Kredi>
+      <Puanlar>
+        <Puan SinavAdi="Vize1" AlinanPuan="26" />
+        <Puan SinavAdi="Vize2" AlinanPuan="74" />
+        <Puan SinavAdi="Final" AlinanPuan="37" />
+      </Puanlar>
+    </Ders>
+  </Dersler>
+</Ogrenci>

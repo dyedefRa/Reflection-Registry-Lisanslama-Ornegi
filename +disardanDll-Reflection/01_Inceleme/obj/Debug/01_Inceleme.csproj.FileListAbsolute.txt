@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\bin\Debug\01_Inceleme.exe.config
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\bin\Debug\01_Inceleme.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\bin\Debug\01_Inceleme.pdb
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\_01_Inceleme.Form1.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\_01_Inceleme.Properties.Resources.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\01_Inceleme.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\01_Inceleme.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\01_Inceleme.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\01_Inceleme.pdb
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\01_Inceleme\obj\Debug\01_Inceleme.csprojResolveAssemblyReference.cache

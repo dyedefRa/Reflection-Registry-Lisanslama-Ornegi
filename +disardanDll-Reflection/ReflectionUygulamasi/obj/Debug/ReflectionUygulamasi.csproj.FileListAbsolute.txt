@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\bin\Debug\ReflectionUygulamasi.exe.config
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\bin\Debug\ReflectionUygulamasi.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\bin\Debug\ReflectionUygulamasi.pdb
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.Form1.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.Properties.Resources.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.pdb
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\ReflectionUygulamasi\obj\Debug\ReflectionUygulamasi.csprojResolveAssemblyReference.cache

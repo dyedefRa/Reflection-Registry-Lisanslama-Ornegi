@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\bin\Debug\LateBindingIslemleri.exe.config
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\bin\Debug\LateBindingIslemleri.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\bin\Debug\LateBindingIslemleri.pdb
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.Form1.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.Properties.Resources.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\LateBindingIslemleri\obj\Debug\LateBindingIslemleri.pdb

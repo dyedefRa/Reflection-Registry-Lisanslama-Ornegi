@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\bin\Debug\Ahmet.Framework.Serilization04.exe.config
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\bin\Debug\Ahmet.Framework.Serilization04.exe
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\bin\Debug\Ahmet.Framework.Serilization04.pdb
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.Form1.resources
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.Properties.Resources.resources
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.exe
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.pdb
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.xmlSerialize.resources
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.dbToXMLser.resources
+C:\Users\Asus\source\repos\Ahmet.Framework.Serilization04\Ahmet.Framework.Serilization04\obj\Debug\Ahmet.Framework.Serilization04.SoapSerialize.resources

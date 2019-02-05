@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\bin\Debug\Ahmet.Framework07.Regs.exe.config
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\bin\Debug\Ahmet.Framework07.Regs.exe
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\bin\Debug\Ahmet.Framework07.Regs.pdb
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.Form1.resources
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.Lisanslama.resources
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.Properties.Resources.resources
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.exe
+C:\Users\Asus\source\repos\Ahmet.Framework07.Regs\Ahmet.Framework07.Regs\obj\Debug\Ahmet.Framework07.Regs.pdb

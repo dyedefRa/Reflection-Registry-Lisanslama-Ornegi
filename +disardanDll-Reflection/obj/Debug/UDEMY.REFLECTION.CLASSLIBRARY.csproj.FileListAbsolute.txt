@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\bin\Debug\UDEMY.REFLECTION.CLASSLIBRARY.exe.config
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\bin\Debug\UDEMY.REFLECTION.CLASSLIBRARY.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\bin\Debug\UDEMY.REFLECTION.CLASSLIBRARY.pdb
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.Form1.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.Properties.Resources.resources
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.exe
+c:\users\asus\source\repos\UDEMY.REFLECTION.CLASSLIBRARY\obj\Debug\UDEMY.REFLECTION.CLASSLIBRARY.pdb

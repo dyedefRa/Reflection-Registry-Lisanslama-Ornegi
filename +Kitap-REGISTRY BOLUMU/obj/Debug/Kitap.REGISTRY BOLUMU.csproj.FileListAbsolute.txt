@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\bin\Debug\Kitap.REGISTRY BOLUMU.exe.config
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\bin\Debug\Kitap.REGISTRY BOLUMU.exe
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\bin\Debug\Kitap.REGISTRY BOLUMU.pdb
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY BOLUMU.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY_BOLUMU.Form1.resources
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY_BOLUMU.Properties.Resources.resources
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY BOLUMU.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY BOLUMU.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY BOLUMU.exe
+c:\users\asus\source\repos\Kitap.REGISTRY BOLUMU\obj\Debug\Kitap.REGISTRY BOLUMU.pdb

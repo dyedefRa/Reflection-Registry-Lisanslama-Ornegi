@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CTX">
+  <DataContextMoniker Name="/CTXDataContext" />
+  <nestedChildShapes>
+    <classShape Id="449b2b6e-0b2a-4cf4-b0bc-06bdba62cbb7" absoluteBounds="1.625, 4, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/CTXDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26427df8-2eff-46a7-b31b-b8484277cc17" absoluteBounds="1.6400000000000001, 4.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
